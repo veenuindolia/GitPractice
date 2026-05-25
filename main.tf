@@ -10,8 +10,8 @@ resource "azurerm_resource_group" "veenu1" {
   
 }
 
-resource "azurerm_resource_group" "veenu2" {
-    name = "veenu2"
+resource "azurerm_resource_group" "veenu3" {
+    name = "veenu3"
     location = "eastus" 
   
 }
