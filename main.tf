@@ -9,3 +9,9 @@ resource "azurerm_resource_group" "veenu1" {
     location = "eastus" 
   
 }
+
+resource "azurerm_resource_group" "veenu2" {
+    name = "veenu2"
+    location = "eastus" 
+  
+}
