@@ -15,3 +15,9 @@ resource "azurerm_resource_group" "veenu4" {
     location = "eastus" 
   
 }
+
+resource "azurerm_resource_group" "veenu5" {
+    name = "veenu5"
+    location = "westus" 
+  
+}
