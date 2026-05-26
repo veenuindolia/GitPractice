@@ -28,3 +28,8 @@ resource "azurerm_resource_group" "veenu6" {
   
 }
 
+resource "azurerm_resource_group" "veenu7" {
+    name = "veenu7"
+    location = "westus" 
+  
+}
